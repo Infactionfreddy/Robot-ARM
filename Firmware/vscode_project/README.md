@@ -1,0 +1,3 @@
+Habe das Projekt gezip hochgeladen da sonst dateien fehlen...
+
+Das Project ist noch nicht 100% passenten für eins der Boards
