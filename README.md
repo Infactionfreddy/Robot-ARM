@@ -12,4 +12,7 @@ Hier vielleicht eine Version des Roboter Arms in einer Beta version
 
 
 
+Stepper Driver Pinout 
+![](https://github.com/lnfactionfreddy/Robot-ARM/blob/main/EFB65ED7-3942-4A11-B39C-411EC5EF6D3A.jpeg)
+
 
